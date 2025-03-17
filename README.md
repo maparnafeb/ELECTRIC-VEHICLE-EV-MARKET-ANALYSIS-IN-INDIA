@@ -1,6 +1,5 @@
 # ELECTRIC-VEHICLE-EV-MARKET-ANALYSIS-IN-INDIA
 
-# EV and Financial Data Analysis
 
 ## Overview
 This project analyzes financial expenditure data and electric vehicle (EV) sales data in India. It provides insights into income distribution, spending habits, potential savings, and EV adoption trends across states. The analysis includes exploratory data analysis (EDA), clustering techniques, and recommendations for financial planning and EV market growth.
